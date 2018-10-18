@@ -13,6 +13,7 @@
 		5E9A374B217817F2005C40D4 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5E9A374A217817F2005C40D4 /* Assets.xcassets */; };
 		5E9A374E217817F2005C40D4 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5E9A374C217817F2005C40D4 /* LaunchScreen.storyboard */; };
 		5E9A3759217817F2005C40D4 /* TableViewTestTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E9A3758217817F2005C40D4 /* TableViewTestTests.swift */; };
+		5E9A3764217818C5005C40D4 /* TableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E9A3763217818C5005C40D4 /* TableViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +37,7 @@
 		5E9A3754217817F2005C40D4 /* TableViewTestTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TableViewTestTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		5E9A3758217817F2005C40D4 /* TableViewTestTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableViewTestTests.swift; sourceTree = "<group>"; };
 		5E9A375A217817F2005C40D4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		5E9A3763217818C5005C40D4 /* TableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -83,6 +85,7 @@
 				5E9A374A217817F2005C40D4 /* Assets.xcassets */,
 				5E9A374C217817F2005C40D4 /* LaunchScreen.storyboard */,
 				5E9A374F217817F2005C40D4 /* Info.plist */,
+				5E9A3763217818C5005C40D4 /* TableViewController.swift */,
 			);
 			path = TableViewTest;
 			sourceTree = "<group>";
@@ -198,6 +201,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				5E9A3746217817EE005C40D4 /* ViewController.swift in Sources */,
+				5E9A3764217818C5005C40D4 /* TableViewController.swift in Sources */,
 				5E9A3744217817EE005C40D4 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
